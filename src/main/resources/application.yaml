@@ -1,0 +1,4 @@
+cielo:
+    path:
+        legacy:
+            database: /legacy-database/lancamento-conta-legado.json
